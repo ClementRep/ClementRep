@@ -3,7 +3,7 @@
 
 👀 I’m interested in web development, building efficient applications, and learning new programming techniques.
 
-
+Im part if Sharp Coders https://github.com/S-arpCoders 
 🌱 I’m currently learning Node.js, JavaScript, and improving my skills in backend development.
 
 
